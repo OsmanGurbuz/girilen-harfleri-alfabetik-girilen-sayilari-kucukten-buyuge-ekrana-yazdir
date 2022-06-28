@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+C:\Users\hp\Desktop\yeni denemeler\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
